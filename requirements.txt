@@ -1,0 +1,13 @@
+-e .
+
+tree_sitter==0.21.3
+
+sentence_transformers >= 5.1.0
+
+
+
+
+
+
+
+
