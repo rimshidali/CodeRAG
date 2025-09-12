@@ -1,2 +1,2 @@
-# CodeRAG
-A Completely free to use CLI tool for querying large codebases using Retrieval-Augmented Generation (RAG) with syntax-aware chunking.
+#CodeRAG 
+A CLI tool for performing Retrieval-Augmented Generation (RAG) on codebases using open-source models.
